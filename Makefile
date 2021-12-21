@@ -1,3 +1,3 @@
 all:
 	ponyc -d .
-	./glfw3playground
+	./pony-glfw3
